@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="740" viewBox="0 0 960 740" role="img" aria-labelledby="title desc">
+<title id="title">Explora mis proyectos — CRM KJA, ERP de transporte, certificados y Grad.ia</title>
+<desc id="desc">Mapa de Backend, Frontend y Datos. Abre el mapa interactivo para explorar cada área.</desc>
+<rect width="960" height="740" rx="14" fill="#0d1117"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#dce6f0">
+<text x="36" y="50" font-size="24" font-weight="600">Lo que construyo</text><text x="924" y="50" text-anchor="end" font-size="17" fill="#8c9fb3">4+ años / Full Stack</text>
+<rect x="365" y="78" width="230" height="84" rx="10" fill="#142334" stroke="#59788f"/>
+<text x="480" y="115" text-anchor="middle" font-size="27" font-weight="600">yeiser.dev</text><text x="480" y="141" text-anchor="middle" font-size="16" fill="#9aafc2">Producto → implementación</text>
+<path d="M480 162v30M180 210v-18h600v18M480 192v18" fill="none" stroke="#466079" stroke-width="2"/>
+<g fill="#131b25" stroke="#334457"><rect x="36" y="210" width="288" height="90" rx="9"/><rect x="336" y="210" width="288" height="90" rx="9"/><rect x="636" y="210" width="288" height="90" rx="9"/></g>
+<g font-size="23" font-weight="600" text-anchor="middle"><text x="180" y="247">Backend</text><text x="480" y="247">Frontend</text><text x="780" y="247">Datos</text></g>
+<g font-size="17" fill="#a3b4c6" text-anchor="middle"><text x="180" y="277">Java · Node.js</text><text x="480" y="277">Angular · React</text><text x="780" y="277">PostgreSQL · IA</text></g>
+<g stroke="#293541"><path d="M36 333h888M36 416h888M36 499h888M36 582h888"/></g>
+<g font-size="22" font-weight="600"><text x="36" y="368">CRM KJA</text><text x="36" y="451">ERP de transporte</text><text x="36" y="534">Certificados KJA</text><text x="36" y="617">Grad.ia</text></g>
+<g font-size="17" fill="#9eafc1"><text x="36" y="395">Gestión interna · Autorización · Validaciones</text><text x="36" y="478">Reglas de negocio · Roles · SUNAT</text><text x="36" y="561">Verificación QR · Validaciones en servidor</text><text x="36" y="644">Análisis de clases · Retroalimentación</text></g>
+<g text-anchor="end"><g font-size="25" fill="#c9e7f1"><text x="924" y="368">100 colaboradores</text><text x="924" y="451">ERP desde cero</text><text x="924" y="534">400+ / mes</text><text x="924" y="617">IA educativa</text></g><g font-size="15" fill="#9eafc1"><text x="924" y="395">TypeScript · Deno · Supabase</text><text x="924" y="478">Java · Spring Boot · PostgreSQL</text><text x="924" y="561">certificados emitidos</text><text x="924" y="644">Node.js · OpenAI API</text></g></g>
+<rect x="36" y="679" width="888" height="40" rx="6" fill="#183044"/>
+<text x="480" y="705" text-anchor="middle" font-size="18" fill="#c9e7f1">Abrir mapa interactivo ↗</text>
+</g></svg>
