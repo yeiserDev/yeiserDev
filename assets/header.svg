@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title">
+<title id="title">Yeiser Avila Medina — Full Stack Developer</title>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#23354A" stroke-width=".6"/></pattern></defs>
+<rect width="1280" height="440" rx="16" fill="#101C2C"/>
+<path d="M810 0H1264Q1280 0 1280 16V424Q1280 440 1264 440H810Z" fill="url(#grid)"/>
+<rect x="56" y="51" width="36" height="36" rx="9" fill="#CCE8F0"/>
+<text x="74" y="75" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#101C2C">y.</text>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="107" y="75" font-size="18" fill="#B6C6D8">yeiserDev</text>
+<text x="56" y="171" font-size="58" font-weight="700" letter-spacing="-2" fill="#F4F7FC">Yeiser Avila Medina</text>
+<text x="59" y="219" font-size="29" fill="#AFD9E5">Full Stack Developer</text>
+<text x="59" y="278" font-size="22" fill="#B6C6D8">Aplicaciones web y automatización de procesos.</text>
+<text x="59" y="310" font-size="22" fill="#B6C6D8">De la operación diaria al software que la resuelve.</text>
+<path d="M59 354H730" stroke="#344359"/>
+<text x="59" y="389" font-size="17" fill="#D5E0EE">Java / Spring Boot / Angular / PostgreSQL</text>
+<text x="731" y="389" text-anchor="end" font-size="16" fill="#93A7BD">Lima, Perú</text>
+</g>
+<g fill="#14253A" stroke="#4C657F" stroke-width="1.5">
+<rect x="871" y="90" width="313" height="64" rx="10"/>
+<rect x="871" y="187" width="313" height="64" rx="10"/>
+<rect x="871" y="284" width="313" height="64" rx="10"/>
+<path d="M1028 154V187M1028 251V284" stroke="#8DB9C9"/>
+</g>
+<g font-family="Consolas,monospace" font-size="19" fill="#D8E9F4">
+<text x="896" y="129">01</text><text x="949" y="129">Interfaz</text>
+<text x="896" y="226">02</text><text x="949" y="226">Lógica de negocio</text>
+<text x="896" y="323">03</text><text x="949" y="323">Datos</text>
+</g>
+</svg>
